@@ -8,4 +8,4 @@
 ---
 
 ## Professional Growth
-This project strengthened my ability to think like a SOC analyst and align technical controls with GRC requirements.
+This project strengthened my ability as a SOC analyst and align technical controls with GRC requirements.
