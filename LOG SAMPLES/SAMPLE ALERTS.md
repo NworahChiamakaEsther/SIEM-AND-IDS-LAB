@@ -61,5 +61,3 @@ Multiple alerts across IDS and endpoint logs increase confidence and justify esc
 
 ---
 
-## Why This Matters
-This demonstrates SOC-level alert analysis, not just tool deployment.
