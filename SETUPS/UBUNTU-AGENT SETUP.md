@@ -15,6 +15,7 @@ Integrate a Linux endpoint into the SIEM environment.
 ## Validation
 - Agent successfully connected
 - Linux system logs visible in dashboard
+<img width="943" height="227" alt="dashboard_overview_ubuntu agent" src="https://github.com/user-attachments/assets/964b97c0-e53f-40d6-bcde-990611504512" />
 
 ---
 
