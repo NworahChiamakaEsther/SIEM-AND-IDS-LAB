@@ -44,7 +44,7 @@ This section demonstrates how alerts from Wazuh and Suricata would be handled in
 
 
 **Source:** Suricata IDS 
-**Severity:** High  
+**Severity:** Medium
 <img width="827" height="82" alt="suricata_alert" src="https://github.com/user-attachments/assets/84390ab5-9b7e-4ffc-aa90-2361038b79b1" />
 
 
