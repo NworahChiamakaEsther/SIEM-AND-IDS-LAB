@@ -40,9 +40,13 @@ This section demonstrates how alerts from Wazuh and Suricata would be handled in
 ---
 
 ## Alert 3: Network Scan Detected (Suricata)
+<img width="332" height="101" alt="attack_simulation" src="https://github.com/user-attachments/assets/6beff161-ed6d-47f0-8cb6-687b350d1c8f" />
 
-**Source:** Suricata IDS  
+
+**Source:** Suricata IDS 
 **Severity:** High  
+<img width="827" height="82" alt="suricata_alert" src="https://github.com/user-attachments/assets/84390ab5-9b7e-4ffc-aa90-2361038b79b1" />
+
 
 ### Triage Process
 - Review source IP and ports scanned
